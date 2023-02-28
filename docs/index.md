@@ -2,14 +2,14 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Lorem ipsum...
+  name: 编程笔记
+  text: 记录一些平时学到的东西，方便在线查阅
+  tagline: 🏷️ 一些比较基础的知识
   actions:
     - theme: brand
       text: 🥽 看一下
-      link: /guide/what-is-vitepress
+      link: /code/index.md
     - theme: alt
       text: 🗑️ GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/nafnix/learning
 ---
